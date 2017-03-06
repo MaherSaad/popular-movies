@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="150dp"
+    android:gravity="center"
+    android:padding="6dp"
+    android:clickable="true"
+    android:layout_height="wrap_content">
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/youtube"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Video Name"
+        android:textAlignment="center"
+        android:id="@+id/video_name"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"/>
+</LinearLayout>
+</layout>
