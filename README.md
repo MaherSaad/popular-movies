@@ -1,8 +1,8 @@
-#Popular Movies
+# Popular Movies
 
 Here is a fully functional and colorful android app which I made from scratch for Android Developer Nanodegree program. This app reveals the power of adaptive UI both for phone and tablet devices.
 
-#Features
+# Features
 
 With the app, you can:
 
@@ -11,11 +11,11 @@ Save favorite movies locally to view them even when offline
 Watch trailers
 Read reviews
 
-#How to Work with the Source
+# How to Work with the Source
 
 This app uses The [Movie Database API](https://www.themoviedb.org/documentation/api) to retrieve movies. You must provide your own API key in order to build the app. When you get it, just paste it to:  `res/strings.xml
 
-#Screenshots
+# Screenshots
 
 ![screenshot_1488796508_framed](https://cloud.githubusercontent.com/assets/10210954/23606490/a368f1ee-0269-11e7-9ab5-4f451914dd36.png)
 ![screenshot_1488796448_framed](https://cloud.githubusercontent.com/assets/10210954/23606492/a4ebf5b6-0269-11e7-81b9-5a4aba640317.png)
@@ -36,7 +36,7 @@ This app uses The [Movie Database API](https://www.themoviedb.org/documentation/
   - swipe to refresh
   
   
-#License
+# License
 
 ```
 Copyright 2017 Maher Saad
